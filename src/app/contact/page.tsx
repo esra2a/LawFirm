@@ -164,4 +164,4 @@ export default function ContactPage() {
 }
 
 
-                  <a href="mailto:info@ahmed-sa.com" className={`text-gray-700 hover:${accentColor} transition duration-300 block mt-1`}>info@ahmed-sa.com</a>
+
