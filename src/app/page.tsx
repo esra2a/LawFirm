@@ -20,7 +20,7 @@ const headingColor = 'text-gray-900';
 
 export default function HomePage() {
   return (
-    <>
+    <>  
       {/* Hero Section with Background Image */}
       <section 
         className="relative py-24 md:py-36 text-center text-white bg-cover bg-center bg-no-repeat"
